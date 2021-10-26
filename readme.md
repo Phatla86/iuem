@@ -1,10 +1,10 @@
 # Trang web tỏ tình crush cực kỳ lãng mạn
 
-Link Demo: https://j2c.cc/LOVE-CRUSH
+Link Demo: https://phatla86.github.io/codetest/
 
 ## Author
 
-**Facebook**: <a href="http://fb.com/dn279">andyngojs</a>
+**Facebook**: <a href="https://www.fb.com/Phatla8888">Phatla</a>
 
 ## Join Us
 
